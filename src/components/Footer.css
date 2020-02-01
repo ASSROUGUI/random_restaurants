@@ -1,15 +1,4 @@
- /* .body{
 
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmv6VZPGHUN11QgC0W--tnZkr29ZvyIkNNLA6f4kpFVR6DQCnX&s');
-    background-repeat: no-repeat;
-    background-size: 100% ;
-}  */
-/* img{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 35%;
-} */
 #h{
     display: block;
     background: #0b9496;
@@ -31,22 +20,13 @@
     text-align: center;
 
 }
-.image1{
 
-
-    }
-    .image2{
-        /* margin-left: 9px; */
-    }
 #banner{
     display: flex;
      justify-content:space-around;
 overflow: hidden;
 }
-/* .Container{
-    margin-bottom: -55666px;
 
-} */
 
 .footer{
     color: grey;
@@ -56,9 +36,7 @@ overflow: hidden;
     height: 100%;
    
 }
-#x{
-    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
-}
+
 a {
     color: grey;
   }
@@ -80,21 +58,8 @@ a {
     display: flex;
   }
   
-  /* Create three equal columns that sits next to each other */
   .column {
     flex: 48.33%;
     padding: 5px;
   }
 
-  /* .Container{
-
-    display: "flex";
-    alignItems: "stretch";
-    width: "100%";
-    height: styles.footerMenuHeight;
-    backgroundColor: "#333";
-    color: "#fff";
-    position: "fixed";
-    bottom: 0
-
-  } */
