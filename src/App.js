@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import DataList from './components/DB'
+
 import './App.css';
 import Search from './components/Search'; 
 import HomePage from './components/HomePage';
