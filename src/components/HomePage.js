@@ -76,7 +76,7 @@ class HomePage extends Component {
       const { data, loading } = this.state;
         return (
 
-             <div className="background" style={{marginLeft:'26px'}}>   
+             <div className="background" style={{marginLeft:'16px'}}>   
 
                <Card   className="background2" style={{ width: '33rem'  ,height:'43rem' }}>
   
