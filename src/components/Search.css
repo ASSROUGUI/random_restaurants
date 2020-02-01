@@ -23,7 +23,7 @@ img{
     color: #e9eded;
     line-height: 0.92857143;
     cursor: pointer;
-    margin-top: 60px;
+  
     height: 80px;
     border-radius: 30px;
 
@@ -73,14 +73,19 @@ width: '100%' */
   .background .background2 {
     /* margin: 0 auto; */
   }
-  Card{
+  /* Card{
     margin-bottom: -339992px; 
-  }
+  } */
   a{
       color: grey;
   }
   main-container {
+    @media (min-width: 768px)
+.col-sm-12 {
+    width: 100%;
+}
     background: rgba(255,255,255,0.5);
     min-height: 100%;
-    margin-left: auto;
-    margin-right: auto;}
+    /* margin-left: auto;
+    margin-right: auto; */
+ }
