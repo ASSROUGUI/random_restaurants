@@ -1,8 +1,8 @@
 {
-  "homepage": "http://ASSROUGUI.github.io/random_restaurants",
   "name": "random_restaurant",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://ASSROUGUI.github.io/random_restaurants/",
   "dependencies": {
     "@fortawesome/fontawesome": "^1.1.8",
     "@fortawesome/fontawesome-free-solid": "^5.0.13",

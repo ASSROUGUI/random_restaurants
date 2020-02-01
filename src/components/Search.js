@@ -219,25 +219,11 @@ width:'102px',
      
 </div>
 
-  {/* </Alert></Card.Title> */}
-{/* <Card.Text style={{boxSizing: 'border-box',marginLeft:'322px' ,height:'22rem' ,marginTop:'193px'}}>
-<Alert  >
-<a style={{marginLeft:'-213px'}} 
-href="http://maps.google.com/?q=+latRandomRestaurant+,+this.state.lonRandomRestaurant"
 
-
-target="blank_"
- >
- <a href="http://maps.google.com/?q=24.590353851508,46.594550774201" target="blank_">r</a>
-      <button style={{borderColor:'white',marginRight:'-2113px' ,backgroundColor:'white' ,color:'#343a40'}} type="button" className="btn btn-info">Google Maps فتح في</button>
-      </a>
-
-</Alert>
-</Card.Text> */}
  <Card.Text style={{boxSizing: 'border-box'}}>
 <Alert > 
 <button style={{ fontFamily:'cocon_next_arabicregular',
-marginTop:'382px',
+marginTop:'362px',
 
   }} onClick={this.handleClick}  id='h' 
 className=" wbtn tooltipped pulse waves-effect waves-light btn modal-trigger green lighten-4 black-text"> اقتراح آخر 
@@ -251,32 +237,7 @@ className=" wbtn tooltipped pulse waves-effect waves-light btn modal-trigger gre
    </Alert>
 </Card.Text>
 
-   {/* <div className='Containers'  style={{ marginTop:'-351px', height:' 100%',
-   marginLeft:'-224px',
-  width: '100%',
-  display: 'flex',
-  justifyContent: 'center',
-  alignItems: 'center'}} >
-  
-  <div className="row"  >
-<div className="column12"   style={{padding:' 5px',}} >
-<a href="https://play.google.com/store/apps/details?id=com.wainnakel.android">
-<img style={{ width: '5rem'  ,height:'2rem',  marginLeft:'10px',marginTop:'21px'}} 
-src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTN7atac2-4z8u_OMUGHnpJZRA-1XYmwm-TzANqeJC4Yg6iBV-y'
-/> </a>
-</div>
-<div  className="column3"  style={{marginLeft:'10px', padding:' 5px' ,marginTop:'21px'}} >
-<a href="https://apps.apple.com/sa/app/wyn-nakl/id718380069">
-<img style={{ width: '5rem'  ,height:'2rem'  }} 
-src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSsG3IVDuRBvFBZSR5k94FevQEddQ5CcRC5X3ADiio3NKp_byae'
-/> </a>
-</div>
-
-</div>
-
-<Footer  /> */}
-{/* </div> */}
-{/* </Card.Body> */}
+   
 
 </div>  
 
