@@ -223,7 +223,7 @@ width:'102px',
  <Card.Text style={{boxSizing: 'border-box'}}>
 <Alert > 
 <button style={{ fontFamily:'cocon_next_arabicregular',
-marginTop:'262px',
+marginTop:'342px',
 
   }} onClick={this.handleClick}  id='h' 
 className=" wbtn tooltipped pulse waves-effect waves-light btn modal-trigger green lighten-4 black-text"> اقتراح آخر 
